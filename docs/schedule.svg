@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="350" viewBox="0 0 1100 350" font-family="Helvetica, Arial, sans-serif">
+<rect width="1100" height="350" fill="#ffffff"/>
+<text x="150" y="30" font-size="18" font-weight="bold" fill="#111827">GroundLink optimal contact schedule (24 h)</text>
+<text x="150" y="52" font-size="12" fill="#4b5563">168 contacts, 4856 Gbit delivered (milp)</text>
+<line x1="150.0" y1="64" x2="150.0" y2="260" stroke="#e5e7eb"/>
+<text x="150.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">00h</text>
+<line x1="265.0" y1="64" x2="265.0" y2="260" stroke="#e5e7eb"/>
+<text x="265.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">03h</text>
+<line x1="380.0" y1="64" x2="380.0" y2="260" stroke="#e5e7eb"/>
+<text x="380.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">06h</text>
+<line x1="495.0" y1="64" x2="495.0" y2="260" stroke="#e5e7eb"/>
+<text x="495.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">09h</text>
+<line x1="610.0" y1="64" x2="610.0" y2="260" stroke="#e5e7eb"/>
+<text x="610.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">12h</text>
+<line x1="725.0" y1="64" x2="725.0" y2="260" stroke="#e5e7eb"/>
+<text x="725.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">15h</text>
+<line x1="840.0" y1="64" x2="840.0" y2="260" stroke="#e5e7eb"/>
+<text x="840.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">18h</text>
+<line x1="955.0" y1="64" x2="955.0" y2="260" stroke="#e5e7eb"/>
+<text x="955.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">21h</text>
+<line x1="1070.0" y1="64" x2="1070.0" y2="260" stroke="#e5e7eb"/>
+<text x="1070.0" y="278" font-size="11" fill="#6b7280" text-anchor="middle">24h</text>
+<text x="140" y="93.0" font-size="13" fill="#111827" text-anchor="end">Svalbard</text>
+<rect x="150" y="74" width="920" height="30" fill="#f9fafb" stroke="#e5e7eb"/>
+<rect x="150.2" y="77" width="6.4" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 47.4 Gbit</title></rect>
+<rect x="163.3" y="77" width="1.6" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 6.8 Gbit</title></rect>
+<rect x="170.5" y="77" width="6.4" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 47.1 Gbit</title></rect>
+<rect x="190.9" y="77" width="6.3" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 46.3 Gbit</title></rect>
+<rect x="211.3" y="77" width="6.2" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 45.1 Gbit</title></rect>
+<rect x="231.8" y="77" width="6.0" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 43.2 Gbit</title></rect>
+<rect x="252.4" y="77" width="5.8" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 40.6 Gbit</title></rect>
+<rect x="273.0" y="77" width="5.5" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 36.9 Gbit</title></rect>
+<rect x="293.7" y="77" width="5.1" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 32.4 Gbit</title></rect>
+<rect x="307.3" y="77" width="1.5" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 5.7 Gbit</title></rect>
+<rect x="314.5" y="77" width="4.7" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 27.2 Gbit</title></rect>
+<rect x="327.3" y="77" width="2.4" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 10.6 Gbit</title></rect>
+<rect x="335.4" y="77" width="4.2" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 22.2 Gbit</title></rect>
+<rect x="347.4" y="77" width="3.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 15.1 Gbit</title></rect>
+<rect x="356.2" y="77" width="3.6" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 17.1 Gbit</title></rect>
+<rect x="367.6" y="77" width="3.8" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 20.3 Gbit</title></rect>
+<rect x="377.3" y="77" width="2.9" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 12.9 Gbit</title></rect>
+<rect x="387.7" y="77" width="4.3" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 25.4 Gbit</title></rect>
+<rect x="398.3" y="77" width="2.1" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 8.9 Gbit</title></rect>
+<rect x="407.9" y="77" width="4.8" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 30.7 Gbit</title></rect>
+<rect x="419.5" y="77" width="1.5" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 5.1 Gbit</title></rect>
+<rect x="428.0" y="77" width="5.2" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 35.2 Gbit</title></rect>
+<rect x="448.2" y="77" width="5.5" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 39.0 Gbit</title></rect>
+<rect x="468.3" y="77" width="5.7" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 41.6 Gbit</title></rect>
+<rect x="488.4" y="77" width="5.9" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 43.5 Gbit</title></rect>
+<rect x="502.9" y="77" width="1.5" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 1.1 Gbit</title></rect>
+<rect x="508.6" y="77" width="6.0" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 44.7 Gbit</title></rect>
+<rect x="523.0" y="77" width="1.6" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 6.5 Gbit</title></rect>
+<rect x="528.7" y="77" width="6.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 45.5 Gbit</title></rect>
+<rect x="543.3" y="77" width="2.4" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 10.5 Gbit</title></rect>
+<rect x="548.8" y="77" width="6.1" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 45.9 Gbit</title></rect>
+<rect x="563.6" y="77" width="3.1" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 14.1 Gbit</title></rect>
+<rect x="568.9" y="77" width="6.1" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 45.9 Gbit</title></rect>
+<rect x="589.0" y="77" width="6.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 45.7 Gbit</title></rect>
+<rect x="609.0" y="77" width="6.1" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 45.3 Gbit</title></rect>
+<rect x="629.1" y="77" width="6.0" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 44.9 Gbit</title></rect>
+<rect x="649.1" y="77" width="6.0" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 44.4 Gbit</title></rect>
+<rect x="669.1" y="77" width="6.0" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 44.1 Gbit</title></rect>
+<rect x="685.6" y="77" width="5.9" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 41.6 Gbit</title></rect>
+<rect x="709.2" y="77" width="5.9" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 44.0 Gbit</title></rect>
+<rect x="729.1" y="77" width="6.0" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 44.2 Gbit</title></rect>
+<rect x="746.6" y="77" width="6.4" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 46.7 Gbit</title></rect>
+<rect x="766.9" y="77" width="6.4" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 47.3 Gbit</title></rect>
+<rect x="789.1" y="77" width="6.1" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 45.3 Gbit</title></rect>
+<rect x="807.4" y="77" width="6.4" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 47.5 Gbit</title></rect>
+<rect x="829.3" y="77" width="6.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 45.8 Gbit</title></rect>
+<rect x="849.4" y="77" width="6.1" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 45.7 Gbit</title></rect>
+<rect x="868.1" y="77" width="6.3" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 46.4 Gbit</title></rect>
+<rect x="888.3" y="77" width="6.3" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 46.1 Gbit</title></rect>
+<rect x="910.0" y="77" width="5.8" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 42.8 Gbit</title></rect>
+<rect x="928.6" y="77" width="6.3" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 45.8 Gbit</title></rect>
+<rect x="948.8" y="77" width="6.3" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 45.9 Gbit</title></rect>
+<rect x="971.3" y="77" width="5.0" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 33.3 Gbit</title></rect>
+<rect x="989.1" y="77" width="6.3" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 46.5 Gbit</title></rect>
+<rect x="1009.3" y="77" width="6.4" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 46.9 Gbit</title></rect>
+<rect x="1029.5" y="77" width="6.4" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 47.2 Gbit</title></rect>
+<rect x="1049.7" y="77" width="6.4" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 47.5 Gbit</title></rect>
+<text x="140" y="131.0" font-size="13" fill="#111827" text-anchor="end">Fairbanks</text>
+<rect x="150" y="112" width="920" height="30" fill="#f9fafb" stroke="#e5e7eb"/>
+<rect x="157.0" y="115" width="4.8" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 23.2 Gbit</title></rect>
+<rect x="165.0" y="115" width="2.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 7.5 Gbit</title></rect>
+<rect x="177.1" y="115" width="5.7" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 33.2 Gbit</title></rect>
+<rect x="184.9" y="115" width="1.6" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 5.4 Gbit</title></rect>
+<rect x="197.2" y="115" width="6.2" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 40.1 Gbit</title></rect>
+<rect x="224.1" y="115" width="2.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 7.3 Gbit</title></rect>
+<rect x="243.5" y="115" width="2.7" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 10.6 Gbit</title></rect>
+<rect x="262.9" y="115" width="3.5" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 14.7 Gbit</title></rect>
+<rect x="282.3" y="115" width="4.2" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 19.3 Gbit</title></rect>
+<rect x="301.8" y="115" width="4.8" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 26.0 Gbit</title></rect>
+<rect x="321.4" y="115" width="5.3" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 32.7 Gbit</title></rect>
+<rect x="341.1" y="115" width="5.7" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 38.1 Gbit</title></rect>
+<rect x="361.0" y="115" width="6.0" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 41.1 Gbit</title></rect>
+<rect x="381.0" y="115" width="6.1" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 42.2 Gbit</title></rect>
+<rect x="401.1" y="115" width="6.0" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 41.3 Gbit</title></rect>
+<rect x="421.4" y="115" width="5.7" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 38.0 Gbit</title></rect>
+<rect x="442.0" y="115" width="5.2" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 30.7 Gbit</title></rect>
+<rect x="462.7" y="115" width="4.3" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 20.0 Gbit</title></rect>
+<rect x="478.8" y="115" width="3.6" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 14.3 Gbit</title></rect>
+<rect x="483.9" y="115" width="2.7" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 10.2 Gbit</title></rect>
+<rect x="498.4" y="115" width="4.2" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 18.2 Gbit</title></rect>
+<rect x="518.1" y="115" width="4.8" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 23.7 Gbit</title></rect>
+<rect x="537.8" y="115" width="5.4" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 30.1 Gbit</title></rect>
+<rect x="557.6" y="115" width="5.8" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 36.5 Gbit</title></rect>
+<rect x="577.6" y="115" width="6.2" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 40.8 Gbit</title></rect>
+<rect x="597.6" y="115" width="6.4" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 43.1 Gbit</title></rect>
+<rect x="617.9" y="115" width="6.4" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 43.5 Gbit</title></rect>
+<rect x="638.3" y="115" width="6.3" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 41.7 Gbit</title></rect>
+<rect x="658.8" y="115" width="5.9" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 37.1 Gbit</title></rect>
+<rect x="679.6" y="115" width="5.2" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 28.1 Gbit</title></rect>
+<rect x="700.6" y="115" width="4.2" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 17.8 Gbit</title></rect>
+<rect x="722.2" y="115" width="2.2" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 7.4 Gbit</title></rect>
+<rect x="817.0" y="115" width="1.5" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 4.5 Gbit</title></rect>
+<rect x="836.2" y="115" width="3.8" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 16.2 Gbit</title></rect>
+<rect x="856.0" y="115" width="4.9" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 26.5 Gbit</title></rect>
+<rect x="876.0" y="115" width="5.6" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 35.6 Gbit</title></rect>
+<rect x="896.0" y="115" width="6.0" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 40.5 Gbit</title></rect>
+<rect x="916.0" y="115" width="6.1" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 42.3 Gbit</title></rect>
+<rect x="936.1" y="115" width="6.1" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 42.0 Gbit</title></rect>
+<rect x="956.2" y="115" width="5.9" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 39.8 Gbit</title></rect>
+<rect x="976.3" y="115" width="5.6" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 35.6 Gbit</title></rect>
+<rect x="996.5" y="115" width="5.1" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 29.2 Gbit</title></rect>
+<rect x="1016.6" y="115" width="4.5" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 22.6 Gbit</title></rect>
+<rect x="1036.7" y="115" width="3.8" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 16.6 Gbit</title></rect>
+<rect x="1056.9" y="115" width="3.5" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 13.4 Gbit</title></rect>
+<text x="140" y="169.0" font-size="13" fill="#111827" text-anchor="end">Bengaluru</text>
+<rect x="150" y="150" width="920" height="30" fill="#f9fafb" stroke="#e5e7eb"/>
+<rect x="278.8" y="153" width="2.1" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 9.3 Gbit</title></rect>
+<rect x="297.7" y="153" width="4.5" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 30.1 Gbit</title></rect>
+<rect x="317.5" y="153" width="4.8" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 33.6 Gbit</title></rect>
+<rect x="338.1" y="153" width="3.7" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 19.7 Gbit</title></rect>
+<rect x="514.2" y="153" width="3.7" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 17.6 Gbit</title></rect>
+<rect x="533.7" y="153" width="5.0" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 34.1 Gbit</title></rect>
+<rect x="553.9" y="153" width="4.9" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 32.7 Gbit</title></rect>
+<rect x="575.0" y="153" width="3.2" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 14.2 Gbit</title></rect>
+<rect x="738.5" y="153" width="3.5" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 19.2 Gbit</title></rect>
+<rect x="757.8" y="153" width="4.7" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 33.2 Gbit</title></rect>
+<rect x="778.0" y="153" width="4.4" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 29.7 Gbit</title></rect>
+<rect x="799.3" y="153" width="1.9" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 8.3 Gbit</title></rect>
+<rect x="959.0" y="153" width="2.3" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 10.1 Gbit</title></rect>
+<rect x="977.9" y="153" width="4.7" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 30.3 Gbit</title></rect>
+<rect x="997.9" y="153" width="5.0" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 34.6 Gbit</title></rect>
+<rect x="1018.7" y="153" width="3.9" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 21.0 Gbit</title></rect>
+<text x="140" y="207.0" font-size="13" fill="#111827" text-anchor="end">Hartebeesthoek</text>
+<rect x="150" y="188" width="920" height="30" fill="#f9fafb" stroke="#e5e7eb"/>
+<rect x="175.7" y="191" width="1.8" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 8.1 Gbit</title></rect>
+<rect x="194.6" y="191" width="4.5" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 30.4 Gbit</title></rect>
+<rect x="214.5" y="191" width="5.1" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 36.6 Gbit</title></rect>
+<rect x="235.0" y="191" width="4.5" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 29.9 Gbit</title></rect>
+<rect x="256.4" y="191" width="1.9" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 8.8 Gbit</title></rect>
+<rect x="387.3" y="191" width="1.6" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 7.3 Gbit</title></rect>
+<rect x="405.9" y="191" width="4.3" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 29.3 Gbit</title></rect>
+<rect x="425.5" y="191" width="4.9" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 35.8 Gbit</title></rect>
+<rect x="445.9" y="191" width="4.3" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 29.5 Gbit</title></rect>
+<rect x="467.5" y="191" width="1.5" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 5.9 Gbit</title></rect>
+<rect x="623.3" y="191" width="3.5" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 18.5 Gbit</title></rect>
+<rect x="642.7" y="191" width="4.9" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 34.7 Gbit</title></rect>
+<rect x="662.8" y="191" width="5.1" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 36.3 Gbit</title></rect>
+<rect x="683.6" y="191" width="4.0" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 23.6 Gbit</title></rect>
+<rect x="873.8" y="191" width="3.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 17.4 Gbit</title></rect>
+<rect x="893.2" y="191" width="4.6" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 33.6 Gbit</title></rect>
+<rect x="913.2" y="191" width="4.7" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 34.2 Gbit</title></rect>
+<rect x="933.8" y="191" width="3.4" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 20.5 Gbit</title></rect>
+<text x="140" y="245.0" font-size="13" fill="#111827" text-anchor="end">Punta Arenas</text>
+<rect x="150" y="226" width="920" height="30" fill="#f9fafb" stroke="#e5e7eb"/>
+<rect x="180.7" y="229" width="2.0" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 5.4 Gbit</title></rect>
+<rect x="199.7" y="229" width="4.5" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 18.1 Gbit</title></rect>
+<rect x="219.4" y="229" width="5.6" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 30.2 Gbit</title></rect>
+<rect x="239.4" y="229" width="6.0" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 37.1 Gbit</title></rect>
+<rect x="259.5" y="229" width="6.0" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 37.5 Gbit</title></rect>
+<rect x="279.6" y="229" width="5.7" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 32.5 Gbit</title></rect>
+<rect x="299.9" y="229" width="4.9" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 22.1 Gbit</title></rect>
+<rect x="320.4" y="229" width="3.6" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 12.7 Gbit</title></rect>
+<rect x="415.3" y="229" width="3.5" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 10.8 Gbit</title></rect>
+<rect x="434.9" y="229" width="5.2" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 22.0 Gbit</title></rect>
+<rect x="454.9" y="229" width="6.0" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 33.6 Gbit</title></rect>
+<rect x="475.0" y="229" width="6.4" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 38.8 Gbit</title></rect>
+<rect x="495.3" y="229" width="6.3" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 37.8 Gbit</title></rect>
+<rect x="515.6" y="229" width="5.8" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 31.0 Gbit</title></rect>
+<rect x="536.1" y="229" width="5.0" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 20.5 Gbit</title></rect>
+<rect x="556.8" y="229" width="3.6" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 11.4 Gbit</title></rect>
+<rect x="594.1" y="229" width="3.7" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 12.8 Gbit</title></rect>
+<rect x="613.2" y="229" width="5.0" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 22.1 Gbit</title></rect>
+<rect x="632.7" y="229" width="5.7" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 32.5 Gbit</title></rect>
+<rect x="652.6" y="229" width="6.1" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 37.8 Gbit</title></rect>
+<rect x="672.6" y="229" width="6.1" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 37.5 Gbit</title></rect>
+<rect x="693.0" y="229" width="5.6" height="24" rx="2" fill="#059669"><title>EO-SAT-3 - 30.6 Gbit</title></rect>
+<rect x="713.8" y="229" width="4.6" height="24" rx="2" fill="#dc2626"><title>EO-SAT-2 - 18.4 Gbit</title></rect>
+<rect x="735.3" y="229" width="2.3" height="24" rx="2" fill="#2563eb"><title>EO-SAT-1 - 6.2 Gbit</title></rect>
+<rect x="813.1" y="229" width="3.1" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 9.0 Gbit</title></rect>
+<rect x="832.2" y="229" width="4.7" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 18.5 Gbit</title></rect>
+<rect x="851.8" y="229" width="5.7" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 28.4 Gbit</title></rect>
+<rect x="871.6" y="229" width="6.3" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 37.0 Gbit</title></rect>
+<rect x="891.7" y="229" width="6.4" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 39.3 Gbit</title></rect>
+<rect x="912.1" y="229" width="6.2" height="24" rx="2" fill="#d97706"><title>EO-SAT-4 - 36.1 Gbit</title></rect>
+<rect x="932.8" y="229" width="5.6" height="24" rx="2" fill="#0891b2"><title>EO-SAT-6 - 25.6 Gbit</title></rect>
+<rect x="954.0" y="229" width="4.1" height="24" rx="2" fill="#7c3aed"><title>EO-SAT-5 - 14.4 Gbit</title></rect>
+<rect x="150" y="295" width="12" height="12" rx="2" fill="#2563eb"/>
+<text x="168" y="305" font-size="12" fill="#374151">EO-SAT-1</text>
+<rect x="290" y="295" width="12" height="12" rx="2" fill="#dc2626"/>
+<text x="308" y="305" font-size="12" fill="#374151">EO-SAT-2</text>
+<rect x="430" y="295" width="12" height="12" rx="2" fill="#059669"/>
+<text x="448" y="305" font-size="12" fill="#374151">EO-SAT-3</text>
+<rect x="570" y="295" width="12" height="12" rx="2" fill="#d97706"/>
+<text x="588" y="305" font-size="12" fill="#374151">EO-SAT-4</text>
+<rect x="710" y="295" width="12" height="12" rx="2" fill="#7c3aed"/>
+<text x="728" y="305" font-size="12" fill="#374151">EO-SAT-5</text>
+<rect x="850" y="295" width="12" height="12" rx="2" fill="#0891b2"/>
+<text x="868" y="305" font-size="12" fill="#374151">EO-SAT-6</text>
+</svg>
